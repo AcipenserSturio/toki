@@ -1,2 +1,3 @@
-# toki
-Miscellaneous blog-like posts about Toki Pona.
+Welcome to kala Asi's dump of miscellaneous writeups about Toki Pona.
+
+[nasin mi | my style](./nasin-mi)
